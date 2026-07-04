@@ -63,8 +63,8 @@ Outflows (money paid out — deposits, loans granted, premiums paid) are **negat
 ## Running locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/Sarah-Samson/tvm-ai-solver.git
+cd tvm-ai-solver
 pip install -r requirements.txt
 ```
 
