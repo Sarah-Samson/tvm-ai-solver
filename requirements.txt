@@ -1,0 +1,6 @@
+streamlit>=1.58.0
+python-dotenv>=1.2.2
+google-genai>=2.10.0
+pydantic>=2.13.4
+sympy>=1.14.0
+pandas>=2.0.0
