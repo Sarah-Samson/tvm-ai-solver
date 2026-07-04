@@ -4,7 +4,7 @@ A chat-based actuarial engine that solves Time Value of Money problems from natu
 
 **Author:** Sarah Comfort Samson
 **Course:** Agentic AI Applications in Financial Mathematics — Sri Sathya Sai Institute of Actuaries
-**Live app:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app) *(update after deployment)*
+**Live app:** Live app: [n5bybqkrupkngmuz5tyq3d.streamlit.app](https://n5bybqkrupkngmuz5tyq3d.streamlit.app/)
 
 ---
 
